@@ -3,6 +3,3 @@
 *.log
 *.tmp 
 .env
-data/
-llama-mysql-demo/
-ch03/
