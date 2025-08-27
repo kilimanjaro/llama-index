@@ -3,7 +3,6 @@
 *.log
 *.tmp 
 .env
-mine/
 data/
 llama-mysql-demo/
 ch03/
